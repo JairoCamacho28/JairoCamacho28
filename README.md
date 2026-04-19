@@ -18,6 +18,9 @@
 
 
 <!--Intro start-->
+<div>
+  
+</div>
 - 🔭 Actualmente trabajando en el proyecto **FODEGAN (Vue.js, Node.js, SQL)**
 - 🌱 Estoy aprendiendo a **desplegar aplicaciones escalables en Hostinger**
 - ☁️ Tengo un fuerte interés en la **arquitectura de redes y switching**
@@ -29,23 +32,20 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=JairoCamacho28&theme=dark&show_icons=true&count_private=true&locale=es" />
+        <br/><br/>
+        <img title="🔥 Mi racha de contribuciones" alt="Racha de Jairo" src="https://github-readme-streak-stats.herokuapp.com/?user=JairoCamacho28&theme=dark&hide_border=false&locale=es" />
+      </td>
+      
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoCamacho28&theme=dark&layout=compact&locale=es" />
+      </td>
+    </tr>
+  </table>
+</p>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
