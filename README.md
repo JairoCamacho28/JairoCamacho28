@@ -32,12 +32,12 @@
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="[https://github-readme-stats.vercel.app/api?username=JairoCamacho28&theme=dark&show_icons=true&count_private=true&locale=es](https://github-readme-stats.vercel.app/api?username=JairoCamacho28&theme=dark&show_icons=true&count_private=true&locale=es)" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&theme=dark&show_icons=true&count_private=true&locale=es" />
         <br/><br/>
-        <img title="🔥 Mi racha de contribuciones" alt="Racha de Jairo" src="[https://github-readme-streak-stats.herokuapp.com/?user=JairoCamacho28&theme=dark&hide_border=false&locale=es](https://github-readme-streak-stats.herokuapp.com/?user=JairoCamacho28&theme=dark&hide_border=false&locale=es)" />
+        <img title="🔥 Mi racha de contribuciones" alt="Racha de Jairo" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=false&locale=es" />
       </td>
       <td width="50%" align="center">
-        <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=JairoCamacho28&theme=dark&layout=compact&locale=es](https://github-readme-stats.vercel.app/api/top-langs/?username=JairoCamacho28&theme=dark&layout=compact&locale=es)" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&theme=dark&layout=compact&locale=es" />
       </td>
     </tr>
   </table>
